@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3ZYPQKQWjIVgtWev4qrVCr7/JKK/xhlBEJbiz5zpqTQ=",
+  "Source": "AccountingService",
+  "BasePath": "_content/AccountingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

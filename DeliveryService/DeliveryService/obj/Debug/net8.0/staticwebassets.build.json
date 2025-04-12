@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+L5yPQd+SF3PXKtldqq2IMkjjcAyPmvfFyfVOp/bUWQ=",
+  "Source": "DeliveryService",
+  "BasePath": "_content/DeliveryService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

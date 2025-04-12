@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DeliveryService.Controllers.DeliveryController",
+    "Method": "GetStatus",
+    "RelativePath": "Delivery/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|c:\\users\\aspir\\source\\repos\\consumershop\\consumershop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|solutionrelative:consumershop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|c:\\users\\aspir\\source\\repos\\consumershop\\consumershop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|solutionrelative:consumershop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsumerShop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|c:\\users\\aspir\\source\\repos\\consumershop\\consumershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|solutionrelative:consumershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818F73B6-0326-4329-B4B4-5559E85346E0}|ConsumerShop\\ConsumerShop.csproj|c:\\users\\aspir\\source\\repos\\consumershop\\consumershop\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\packages.config",
+              "RelativeDocumentMoniker": "ConsumerShop\\packages.config",
+              "ToolTip": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\packages.config",
+              "RelativeToolTip": "ConsumerShop\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T15:30:41.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumerShop",
+              "DocumentMoniker": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\ConsumerShop.csproj",
+              "RelativeDocumentMoniker": "ConsumerShop\\ConsumerShop.csproj",
+              "ToolTip": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\ConsumerShop.csproj",
+              "RelativeToolTip": "ConsumerShop\\ConsumerShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T15:30:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\App.config",
+              "RelativeDocumentMoniker": "ConsumerShop\\App.config",
+              "ToolTip": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\App.config",
+              "RelativeToolTip": "ConsumerShop\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T15:29:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumerShop\\Program.cs",
+              "ToolTip": "C:\\Users\\aspir\\source\\repos\\ConsumerShop\\ConsumerShop\\Program.cs",
+              "RelativeToolTip": "ConsumerShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:52:45.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

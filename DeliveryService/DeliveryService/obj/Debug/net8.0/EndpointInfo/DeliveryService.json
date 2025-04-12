@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "DeliveryService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Delivery/status": {
+      "get": {
+        "tags": [
+          "Delivery"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

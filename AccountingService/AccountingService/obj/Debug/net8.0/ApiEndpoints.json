@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AccountingService.Controllers.AccountingController",
+    "Method": "ProcessPayment",
+    "RelativePath": "Accounting/pay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
